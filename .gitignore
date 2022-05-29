@@ -1,0 +1,10 @@
+__pycache__
+secret_key
+venv
+model_v2.py
+process_image.py
+responses.json
+model/final_model
+app.yaml
+Dockerfile
+.gcloudignore
